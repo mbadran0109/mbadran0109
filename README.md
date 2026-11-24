@@ -1,121 +1,88 @@
 <div align="center">
 
-# 👋 Hello, I'm Mohamed Badran
+# Mohamed Badran
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=50&lines=Multi-Disciplinary+Engineer;Industrial+%26+AI+Robotics+Engineer;Data+Scientist+%26+Software+Developer;STEAM+Education+Specialist)](https://git.io/typing-svg)
+**Software, AI & Robotics Engineer · Alexandria, Egypt**
 
-**Bridging the gap between physical operations, intelligent software, and human potential.**
+Training & Outreach Specialist (ICT Sector) at Bibliotheca Alexandrina · ITI Software Engineering Trainee
 
-📍 Alexandria, Egypt | 🏛️ Bibliotheca Alexandrina
-
-[![Website](https://img.shields.io/badge/Website-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mbadran0109.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mbadran0109)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mbadran0109)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mbadran0109)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mbadran0109)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mbadran0109.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mbadran0109)
+[![Email](https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mbadran0109@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mbadran0109)
+[![X](https://img.shields.io/badge/X-0F1419?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mbadran0109)
 
 </div>
 
 ---
 
-### 🚀 About Me
-I specialize in Industrial Engineering, AI, Full-Stack Development, Robotics, and 3D Design. I lead impactful events and teams, while shaping the next generation through hands-on STEAM curricula, comprehensive training programs, and creative branding.
+### About Me
+
+I'm an engineer who works across software, AI, and connected hardware. I started in Production Engineering and embedded robotics, spent over five years building AI/IoT systems and teaching robotics to 2,000+ students at the Bibliotheca Alexandrina, and now work in the Library's **ICT Sector** on software QA, technical training, outreach, and release documentation—while training at the **Information Technology Institute (ITI)** in .NET Full-Stack and Generative AI engineering.
+
+A lot of my work sits where software meets physical systems and real users: writing APIs and ML models, wiring microcontrollers, testing public web portals, setting up networks for 100+ devices, or running judging panels at national robotics championships.
 
 ---
 
-### ⚡ Skills & Technologies
+### Tailored Portfolio Views
 
-*   **🧠 Data Science & AI:** Python (Pandas, NumPy, Scikit-learn), TensorFlow, OpenCV, Deep Face, Machine Learning Modeling, Predictive Analytics, API Integration, SQL.
-*   **🤖 Engineering & Robotics:** Industrial Engineering (Supply Chain, Facility Planning, Maintenance), Arduino, ESP32, Electronic Circuit Design, Maintenance & Debugging.
-*   **🎨 Design & Manufacturing:** AutoCAD, Fusion360, Cura (3D Printing), Photoshop, Illustrator.
-*   **⚙️ Systems & Operations:** IT Infrastructure Management, Network Stability, Procurement & Vendor Management, Financial Bookkeeping, Process Automation.
-*   **💻 Software & Web:** Flutter/Dart, WordPress, HTML, CSS, JavaScript, C++, MS Office Suite.
-*   **♟️ Critical Thinking:** Crisis Management, Operational Identification, Strategic Planning, Project Management.
-*   **🗣️ Communication:** Technical Writing, Educational Content Creation, Presentation Skills, Public Speaking (Judging & Training), Training & Mentorship.
-*   **🌍 Languages:** Arabic (Native), English (Fluent), German (Basic), Italian (Basic).
+If you're visiting from a specific role or team, you can jump straight to the matching view on my website:
 
----
-
-### 🔥 Mega Projects
-
-**🔌 Arduino & Embedded Systems Projects**
-*   **IoT Manuscript Preservation Showcase:** Engineered an IoT environmental control system using Arduino Mega, ESP8266, and PID control with a multi-sensor array (DHT11, BMP280, Gas) for real-time regulation and Wi-Fi reporting.
-*   **Autonomous Environmental Research Rover:** Developed a multi-functional rover prototype featuring autonomous driving and solar tracking capabilities, integrated with specialized sensors for real-time gas detection and environmental monitoring.
-*   **Smart Home & Garage Automation System:** Designed a comprehensive automation ecosystem featuring Bluetooth app control, smart elevator mechanics, and safety-critical fire alarm systems to manage residential infrastructure and lighting automatically.
-
-**🐍 Python & AI Projects**
-*   **ESP32 Face Recognition:** Developed a Python-Arduino integration using ESP32-CAM for real-time facial recognition and automated hardware triggers (door and voice feedback).
-*   **Age and Gender Detection:** Detection of age and gender of humans using webcam and Python libraries (TensorFlow, Deep Face, OpenCV, Face Recognition).
-*   **AI Chatbot:** Utilized open-source AI models to make a chatbot for helping tourists in museums and assisting engineers in the prediction of cost models and maintenance planning.
-*   **Manuscript OCR System:** Trained an OCR model to digitize and compare handwritten/printed texts, utilizing a side-by-side accuracy detection algorithm.
----
-<img src="https://raw.githubusercontent.com/mbadran0109/mbadran0109/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" onerror="this.style.display='none'"/>
+| Track | Focus | Portfolio Link |
+| :--- | :--- | :--- |
+| **Software, Web/App & AI** | ASP.NET Core, C#, Angular, Flutter, Python ML/GenAI (RAG, Agents, MCP), SQL, QA Testing | [mbadran0109.vercel.app/?track=software](https://mbadran0109.vercel.app/?track=software) |
+| **Robotics, AI & Education** | Arduino/ESP32/ESP8266, IoT, Computer Vision, STEAM Curricula, National Head of Judges | [mbadran0109.vercel.app/?track=robotics](https://mbadran0109.vercel.app/?track=robotics) |
+| **IT, 3D Design & Operations** | LAN/TCP-IP/DNS, API Automation, SolidWorks/Fusion 360/3D Printing, Production & Event Ops | [mbadran0109.vercel.app/?track=operations](https://mbadran0109.vercel.app/?track=operations) |
 
 ---
 
-### 💼 Services & Expertise
+### What I'm Working On Right Now
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ Industrial Engineering & 3D Design</h3>
-      <em>Process Optimization • Supply Chain • 3D Design</em><br/>
-      I combine industrial engineering with 3D design to optimize operations and bring physical ideas into reality through efficient planning, prototyping, and smart manufacturing workflows.
-    </td>
-    <td width="50%" valign="top">
-      <h3>💻 IT Infrastructure & Maintenance</h3>
-      <em>Network Admin • Hardware Setup • Maintenance</em><br/>
-      I set up and manage hardware networks, provide routine technical maintenance, and troubleshoot systems so that everything stays reliable day in and day out.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 Software, AI & Data Science</h3>
-      <em>Full-Stack • AI • Data Science</em><br/>
-      I build modern digital solutions and intelligent systems using software development, AI, and data science to turn complex problems into practical products and insights.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Robotics & Embedded Systems</h3>
-      <em>Embedded Systems • Electronics • Firmware</em><br/>
-      I design and build physical technology. From wiring electronics and building circuits to programming embedded systems, I take complex hardware concepts and turn them into fully working robots and smart devices.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏆 Robotics Competitions & Judging</h3>
-      <em>Competition Ops • Technical Judging • Strategy</em><br/>
-      Involved in robotics competitions for 7+ years. I manage event operations and serve as a technical judge—evaluating robot designs, code, and team strategies at major international competitions.
-    </td>
-    <td width="50%" valign="top">
-      <h3>📚 STEAM Education & Coaching</h3>
-      <em>Curriculum Design • Coaching • Learning Platforms</em><br/>
-      I help shape the next generation of engineers by designing hands-on curricula, managing learning platforms, and directly coaching youth teams in science, technology, engineering, arts, and math.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>👥 Project, Event & Team Leadership</h3>
-      <em>Project Management • Team Leadership • Event Ops</em><br/>
-      I turn big ideas into highly organized realities. As a L&D specialist, I design and deliver complete TOT (Training of Trainers) programs and handle human resources, task distribution, and team building.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎨 Creative Design & Branding</h3>
-      <em>Video Editing • Graphic Design • Branding</em><br/>
-      I make sure great projects look amazing. I handle the visual and business side of technology by editing videos, designing graphics, and building marketing strategies.
-    </td>
-  </tr>
-</table>
+- **Bibliotheca Alexandrina — ICT Sector (`Aug 2026 – Present`):** Training & Outreach Specialist in the Documentation, Training, and Outreach Unit. Testing newly released digital services and web portals, writing bug reports and release documentation, running internal technical/ICDL training for staff, and organizing ICT hackathons and events.
+- **Information Technology Institute — ITI (`Oct 2026 – Present`):** Intensive Computer Software Engineering track covering ASP.NET Core, C#, C++, Web APIs, gRPC, EF Core, SQL Server, Angular, Docker, Azure, Semantic Kernel, RAG, AI Agents, MCP, n8n, and Microsoft Power Platform (Dynamics 365 & Power BI).
+- **National Robotics Officiating (`2017 – Present`):** Served as **Head of Judges** across 4 main categories and their subcategories at both **ORCE** and **Robotourney Egypt** (`Nov 2026`), RoboParade Judge at **RoboFest Egypt** (`Sep 2026`), and Technical Judge for **FIRST LEGO League (FLL)** since 2020.
 
 ---
 
-### 🎓 Education Background
+### Selected Projects
 
-*   **Data Science Specialization (DEPI)** | *Skills Dynamix & IBM* `(Jun 2025 - Dec 2025)`
-*   **B.Sc. in Production Engineering** | *Alexandria University* `(Sep 2019 - Dec 2025)`
-*   **High School Diploma - Mathematics** | *Victoria College, Alexandria* `(Sep 2017 - Sep 2019)`
+**Live on GitHub**
+- [**Automated Smart Manuscript Showcase System**](https://github.com/mbadran0109/AutomatedSmartManuscriptShowcaseSystem) — Arduino Mega & ESP8266 triple-circuit micro-climate control and adaptive lighting system for preserving historical manuscripts (built with Team Canopix for FLL Unearthed).
+- [**Face Detection & Recognition (ESP32-CAM)**](https://github.com/mbadran0109/FaceDetectionESP32) — Python computer vision pipeline pulling live frames from an ESP32-CAM to recognize faces and trigger automated hardware/voice responses.
+- [**Grinch Museum AI Chatbot**](https://github.com/mbadran0109/Grinch-Museum-AI-Chatbot) & [**Web Portal**](https://github.com/mbadran0109/Grinch-Museum-Website) — Interactive museum guide chatbot with voice output and conversation memory, paired with a companion exhibit site.
+- [**Multi-Track Portfolio Website**](https://github.com/mbadran0109/PortofolioWebsite) — Static HTML/CSS/JS portfolio with URL-based career track filtering (`?track=`), shared component hydration, lightbox gallery, and EmailJS v4 contact integration.
+- [**ITI C++ OOP & Win32 Console Labs**](https://github.com/mbadran0109/iti-cpp-lab4) · [**MagicBox-CPP**](https://github.com/mbadran0109/MagicBox-CPP) · [**MenuSelector**](https://github.com/mbadran0109/MenuSelector) — C++ coursework covering dynamic memory, console line editors, Turtle Graphics, and Win32 cursor/keyboard handling.
+
+**Earlier Hardware & AI Builds** *(archived locally — uploading to GitHub soon)*
+- **Industrial AI Graduation Project (Grade: A):** Predictive regression and ML models for manufacturing cost estimation, product lifecycle workflows, and predictive maintenance planning.
+- **Employee Attrition Prediction (IBM / DEPI Capstone):** End-to-end Python ML analysis and attrition forecasting pipeline.
+- **Autonomous Environmental Research Rover:** Solar-tracking rover prototype with autonomous navigation and real-time gas/environmental sensors.
+- **Smart Home & Garage Automation:** Bluetooth-controlled residential automation setup with elevator mechanics, lighting, and fire safety triggers.
+- **Manuscript OCR & Age/Gender Detection:** Computer vision tools built with Python, TensorFlow, OpenCV, and DeepFace.
 
 ---
+
+### Technical Stack
+
+- **Software & Web/Mobile:** C#, ASP.NET Core, Web APIs, gRPC, EF Core, C++, Angular, Flutter/Dart, HTML5, CSS3, JavaScript, SQL / SQL Server, Software QA & Testing
+- **AI & Data Science:** Python (Pandas, NumPy, Scikit-learn), TensorFlow, OpenCV, DeepFace, Semantic Kernel, RAG, AI Agents, MCP, MLflow, Hugging Face, n8n, Power BI
+- **Robotics, Embedded & 3D:** Arduino, ESP32 / ESP8266, IoT Integration, Circuit Prototyping, SolidWorks, Fusion 360, AutoCAD, 3D Printing (Cura)
+- **IT, Cloud & Operations:** Docker, Microsoft Azure, LAN / TCP-IP / DNS, Live AV & Streaming, API Workflow Automation, Production Planning & Supply Chain
+- **Languages:** Arabic (Native), English (Fluent), German (Basic), Italian (Basic)
+
+---
+
+### Education
+
+- **Computer Software Engineering** — Information Technology Institute (ITI) · *Oct 2026 – Present*
+- **AI & Data Science – Data Scientist (DEPI)** — MCIT, Skills Dynamix & IBM · *Jun 2025 – Dec 2025*
+- **B.Sc. in Production Engineering** — Alexandria University · *Sep 2019 – Dec 2025* *(Graduation Project: AI Models in Industrial Aspects — Grade: A)*
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mbadran0109/mbadran0109/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" onerror="this.style.display='none'" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbadran0109&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
