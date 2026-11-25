@@ -139,13 +139,15 @@ My portfolio is organized into three focused views depending on the role or team
 
 ## Education & Certifications
 
-- **Computer Software Engineering** — *Information Technology Institute (ITI)* `(Oct 2026 – Present)`
+- **Computer Software Engineering** — *Information Technology Institute (ITI) · Ministry of Communications & Information Technology (MCIT)* `(Oct 2026 – Present)`
   Enterprise .NET Full-Stack, Microservices (SOLID, DDD, EDA, TDD), Angular, Docker, Azure, Generative AI (Semantic Kernel, RAG, Agents, MCP, n8n), and Microsoft Power Platform.
-- **AI & Data Science – Data Scientist (DEPI)** — *MCIT, Skills Dynamix & IBM* `(Jun 2025 – Dec 2025)`
+- **AI & Data Science – Data Scientist (DEPI)** — *Digital Egypt Pioneers Initiative (MCIT) · Skills Dynamix & IBM* `(Jun 2025 – Dec 2025)`
   12-course IBM specialization covering Python, SQL, Data Analysis & Visualization, Machine Learning, Prompt Engineering, MLflow, Hugging Face, and Capstone Project. ([Certificate](https://drive.google.com/file/d/1WE6mOr9u4VUbef_rBD4cjRmD2JOjaFgp/view?usp=drive_link))
-- **B.Sc. in Production Engineering** — *Alexandria University* `(Sep 2019 – Dec 2025)`
-  Graduation Project: *Artificial Intelligence Models in Industrial Aspects* (Grade: A).
+- **B.Sc. in Production Engineering** — *Faculty of Engineering, Alexandria University* `(Sep 2019 – Dec 2025)`
+  CGPA: 2.71 / 4.0 · Graduation Project: *Artificial Intelligence Models in Industrial Aspects* (Grade: A). ([Graduation Certificate](https://drive.google.com/file/d/1WFb8G_qra2mXpNFmKOVw5JzoExkiuays/view?usp=drive_link))
 - **Robotics Professional Trainer & Build Robot From Scratch** — *Arab Robotics & AI Association (ARA)* `(Aug 2021)` ([Certificates](https://drive.google.com/file/d/1G1JaM7GEGYMmjLuwi4Mqm6zQ4uUjATFL/view?usp=drive_link))
+- **Web Development Challenger Track (Egypt FWD)** — *Future Work is Digital Initiative (MCIT) · ITIDA & Udacity* `(Feb 2021)`
+  Front-end web development fundamentals and digital freelancing track · Credential ID: `YJGKDJGT`. ([Certificate](https://drive.google.com/file/d/1JL60xD-2Jr52aYmdZdFVDFLJTQpQgJY6/view?usp=drive_link))
 - **High School Diploma – Mathematical Science** — *Victoria College, Alexandria* `(Sep 2017 – Sep 2019)`
 
 ---
